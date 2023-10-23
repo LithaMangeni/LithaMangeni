@@ -6,7 +6,7 @@ I am a junior entry-level front-end developer, proficient in creating interactiv
 Skills : HTML | CSS | JavaScript
 
 
-For more information, kindly reach me on the following:
+####For more information, kindly reach me on the following:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/litha-mangeni//)  
