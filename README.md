@@ -6,9 +6,12 @@ I am a junior entry-level front-end developer, proficient in creating interactiv
 ![Litha's banner](https://github.com/LithaMangeni/LithaMangeni/assets/137231357/2d6958ce-768f-4580-b439-cf3accf96bd1)
 
 
+Skills : HTML | CSS | JavaScript
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LithaMangeni&theme=tokyonight)
 
-Skills : HTML | CSS | JavaScript
+
 
 
 
