@@ -9,7 +9,12 @@
 📚 I love reading **novels, self-help books** and **biographies**. My favourite ones are **The Kite-runner** by *Khaled Hosseini* in the genre of novels, **Atomic habits** by *James Clear* in the genre of personal development and **Can't hurt me** by *David Goggins* in the genre of biography.
 
 You can reach me on:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LithaMangeni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/litha-mangeni//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/u/0/#inbox)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LithaMangeni)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/litha-mangeni//) 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/u/0/#inbox)  
 
 Skills : HTML | CSS | JavaScript
 
