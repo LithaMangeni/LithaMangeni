@@ -2,7 +2,7 @@
 
 <img src="https://github.com/LithaMangeni/LithaMangeni/assets/137231357/2d6958ce-768f-4580-b439-cf3accf96bd1" width="700" height="250" >
 
-👩‍🎓 I am a junior entry-level front-end developer, proficient in creating interactive web applications using HTML, CSS, and JavaScript, with an ongoing journey in honing development skills driven by a goal of becoming a versatile software developer. Seeking to contribute and learn while continuously enhancing in emerging technologies and languages.
+👩‍🎓 I am an entry-level front-end developer, proficient in creating interactive web applications using HTML, CSS, and JavaScript, with an ongoing journey in honing development skills driven by a goal of becoming a versatile software developer. Seeking to contribute and learn while continuously enhancing in emerging technologies and languages.
 
 🔭 I’m currently working on **JS Framework**. 
 
