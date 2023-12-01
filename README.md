@@ -1,10 +1,10 @@
 ## Hi, I'm Litha Mangeni 👋👩‍💻
 
-<img src="https://github.com/LithaMangeni/LithaMangeni/assets/137231357/2d6958ce-768f-4580-b439-cf3accf96bd1" width="700" height="300" >
-
 👩‍🎓 I am an entry-level front-end developer, proficient in creating interactive web applications using HTML, CSS, and JavaScript, with an ongoing journey in honing development skills driven by a goal of becoming a versatile software developer. Seeking to contribute and learn while continuously enhancing in emerging technologies and languages.
 
 🔭 I’m currently working on **JS Framework**. 
+
+<img src="https://github.com/LithaMangeni/LithaMangeni/assets/137231357/2d6958ce-768f-4580-b439-cf3accf96bd1" width="700" height="300" >
 
 👩‍💼 Beyond my technical capabilities, I love pushing myself to do better and to grown in knowledge and skills. I enjoy the exchange of ideas and the opportunity to learn from like-minded individuals.
 
